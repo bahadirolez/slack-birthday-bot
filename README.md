@@ -34,9 +34,9 @@ To automate the script to run daily at a specific time, you can use a scheduler 
 
 ## Environment Variables
 
-`SLACK_API_TOKEN`: The Slack API token for your bot.
-`SPREADSHEET_ID`: The ID of the Google Sheet containing birthday data.
-`SLACK_CHANNEL`: The Slack channel where birthday messages should be sent.
+* `SLACK_API_TOKEN`: The Slack API token for your bot.
+* `SPREADSHEET_ID`: The ID of the Google Sheet containing birthday data.
+* `SLACK_CHANNEL`: The Slack channel where birthday messages should be sent.
 
 ## Google Sheet Format
 
